@@ -1,2 +1,2 @@
 # StockMarketSignals
-Analyze Signals stock market  
+Analyze Signals stock market using SQL.
